@@ -1,6 +1,5 @@
 # 💫 About Me:
-Student at Jadavpur University, Power Engineering, Aspiring Full Stack Developer and AIML enthusiast<br>Looking to collaborate on full stack projects, and interesting frontend, with good AI projects<br>Help with improving my present projects and repositories :P<br>Currently learning Java, HTML, CSS, Js, React, Django<br>Do ask me about my current projects ;)<br>Fun fact about me - Passionate Maths Youtuber, and a singer by choice<br>
-
+Student at Jadavpur University, Power Engineering, Aspiring Full Stack Developer and AIML enthusiast<br>Looking to collaborate on full stack projects, and interesting frontend, with good AI projects<br>Help with improving my present projects and repositories :P<br>Currently learning Java, HTML, CSS, Js, React, Django<br>Do ask me about my current projects ;)<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumalya-dey) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/soumd-85) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCfLtm1pd6y4QPJ3h60X-Aww) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deysoumalya846@gmail.com) 
